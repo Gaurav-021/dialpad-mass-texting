@@ -1,0 +1,4 @@
+url: "https://dialpad.com/api/v2/sms?apikey="
+sender_group_id: ""
+user_id: ""
+text: "this is a test message"
